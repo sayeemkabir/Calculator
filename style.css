@@ -1,0 +1,55 @@
+.showArea{
+    background-color: rgb(173, 173, 162);
+    height: 70px;
+    width: 100%;
+}
+
+button.btn {
+    background-color: #ddd;
+    border-radius: 0;
+    width: 24%;
+    margin-top: 5px;
+    border: 1px solid black;
+    height: 60px;
+}
+
+button.btn:hover{
+    background-color:rgb(34, 156, 156);
+    border: 2px solid black;
+}
+
+button.operator{
+    background-color: rgb(38, 38, 212);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    transition: background-color, 0.7s;
+}
+
+button.operator:hover{
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    
+}
+
+.container .row{
+    max-width: 500px;
+    margin: auto;
+}
+
+.inputParent{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
